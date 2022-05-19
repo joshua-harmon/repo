@@ -1,15 +1,6 @@
 <template>
   <section id="contact">
-    <h1>Contact</h1>
-    <p>
-      Solution view bring test holistic establish generation normal low.
-      Organically maximise for seamless eye workflows from of and. Iterative
-      fruit taking clickthroughs a capitalize view high content. Offline
-      workflows a leverage forward low touchpoints capitalize and survival
-      digital operational disruptive. Approaches new via win up hanging end
-      innovation fruit strategy identify ball.
-    </p>
-    <section class="contact-form">
+       <section class="contact-form">
       <form name="contact-form" class="eight columns offset-by-two" @submit.prevent="handleSubmit()">
         <input type="hidden" name="form-name" value="contact-form"/>
         <div class="row">
