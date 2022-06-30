@@ -2,20 +2,20 @@
   <section id="about">
   <div class="box">
   <ul id="bookmarks">
-  <li><a href="#">Departments</a>
-   <ul class="sites">
     <li><a href=""></a></li>
     <li><a href="https://splendid-pavlova-019335.netlify.app">Customer Service</a></li>
+    <li><a href="https://splendid-pavlova-019335.netlify.app">Tech Support</a></li>
+    <li><a href="https://splendid-pavlova-019335.netlify.app">Coding</a></li>
+    <li><a href="https://splendid-pavlova-019335.netlify.app">Engineering</a></li>
+    <li><a href="https://splendid-pavlova-019335.netlify.app">Hospitaliy</a></li>
+    <li><a href="https://splendid-pavlova-019335.netlify.app">Industrial</a></li>
+    <li><a href="https://splendid-pavlova-019335.netlify.app">Construction</a></li>
     <li><a href="https://www.on-line-tutors.com">Academics</a></li>
-    <li><a href="https://phenomenal-bombolone-9b629d.netlify.app">graphicsTest</a></li>
-  </ul>
-</li>
+    <li><a href="https://phenomenal-bombolone-9b629d.netlify.app">Vue Graphics Test</a></li>
 </ul>
 </div>
 </section>
 </template>
-
-
 <script>
 export default {
   name: "Departments",
