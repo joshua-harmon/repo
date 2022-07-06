@@ -1,21 +1,35 @@
 <template>
-  <section id="departments">
+  <section id="depts">
   <div class="box">
   <ul id="bookmarks">
-    <li><a href="https://splendid-pavlova-019335.netlify.app">support</a></li>
-    <li><a href="https://splendid-pavlova-019335.netlify.app">coding</a></li>
-    <li><a href="https://splendid-pavlova-019335.netlify.app">engineering</a></li>
-    <li><a href="https://splendid-pavlova-019335.netlify.app">construction</a></li>
-    <li><a href="https://splendid-pavlova-019335.netlify.app">hospitality</a></li>
-    <li><a href="https://www.on-line-tutors.com">academics</a></li>
-    <li><a href="https://phenomenal-bombolone-9b629d.netlify.app">VueTest</a></li>
+ <li><a href="#">school</a>
+   <ul class="sites">
+     <li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/">circuits</a></li>
+     <li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-302-feedback-systems-spring-2007/">feedback'07</a></li>
+     <li><a href="http://ocw.mit.edu/resources/res-6-010-electronic-feedback-systems-spring-2013/">feedback'13</a></li>
+     <li><a href="http://ocw.mit.edu/resources/res-6-010-electronic-feedback-systems-spring-2013/course-videos/">videos</a></li>
+     <li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-241j-dynamic-systems-and-control-spring-2011/">controls'11</a></li>
+     <li><a href="http://ocw.mit.edu/courses/mechanical-engineering/2-04a-systems-and-controls-spring-2013/lecture-notes-labs/">controls'13</a></li>
+     <li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/">digitalComm</a></li>
+     <li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/">signals</a></li>
+     <li><a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/">commContrl</a></li>
+     <li><a href="https://www.elearners.com/l/top-online-certifications-now?trackid=a7c821b6-8934-4d78-b653-a4cdd7b0fe68&key=go_free+college+courses&v=google&a=major+terms+2&c=el+general&cat=free+college+courses&mt=search&ad=320688751826&est=free%20college%20courses&emt=b&device=c&dev=&target=kwd-4077794131&gclid=Cj0KCQjw1pblBRDSARIsACfUG11TQIGPB-D0I1d6ybEl9kKQMLOhtnL7seilaj2RT7IombaWxpA66ygaAgoVEALw_wcB#_ThankYou">eLearners</a></li>  
+     <li><a href="https://www.youtube.com/watch?v=qn7z9T-dezw">mitBee</a></li>  
+     <li><a href="https://online.coloradotech.edu/ctu/online-education/home-nboe2a-des2-exp-dp?code=6222&siteid=CTU_LinkedIn_SponsoredAds_PRO_General_INT_Static_BTSManTanBackpack&dclid=CIi9kNDL4eECFW8MrQYdRsMH6g">ctuOnline</a></li>  
+     <li><a href="https://www.elearners.com/">eLearners</a></li>
+    <li><a href="https://www.youtube.com/watch?v=sqxzQkAdJm0">circuits1</a></li>
+    <li><a href="https://www.youtube.com/watch?v=sqxzQkAdJm0&t=20s">circuits</a></li>
+    <li><a href="https://www.youtube.com/watch?v=89NJj1F_qmQ">eCurriculum</a></li>
+    <li><a href="https://www.youtube.com/watch?v=sqxzQkAdJm0&t=79s">circuitAnalysis</a></li>
+  </ul>
+ </li>
 </ul>
 </div>
 </section>
 </template>
 <script>
 export default {
-  name: "Departments",
+  name: "Depts",
 };
 </script>
 
