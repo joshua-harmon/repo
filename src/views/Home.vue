@@ -1,6 +1,6 @@
 <template>
   <section id="home">
-    <h1 style = "color:blue; text-align:center">WORLD OF WORK SERVICES - COOP</h1>
+    <h1 style = "color:blue; text-align:center"></h1>
     <br> Call list mining tasks below ...
     <ul>
       <li><a href="https://www.manta.com/mb_43_E7_03/manufacturing/arizona" target="_blank" rel="noopener">Manufacturing Directories</a></li>
