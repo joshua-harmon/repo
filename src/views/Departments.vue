@@ -2,12 +2,56 @@
   <section id="departments">
   <div class="box">
   <ul id="bookmarks">
-    <li><a href="https://tiny-fudge-cb990b.netlify.app/Linux">support</a></li>
-    <li><a href="https://classy-raindrop-80ce0d.netlify.app">coding</a></li>
-    <li><a href="https://tiny-cendol-418236.netlify.app">hospitality</a></li>
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app">engineering</a></li>
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app">training</a></li>
-    <li><a href="https://phenomenal-bombolone-9b629d.netlify.app">jsUpload</a></li>
+
+  <li><a href="#">support</a>
+   <ul class="sites">
+    <li><a href="https://tiny-fudge-cb990b.netlify.app/Home">Home</a></li>  
+    <li><a href="https://tiny-fudge-cb990b.netlify.app/About">About</a></li>  
+    <li><a href="https://tiny-fudge-cb990b.netlify.app/CustomerService">CustomerService</a></li>  
+    <li><a href="https://tiny-fudge-cb990b.netlify.app/Systems">Systems</a></li>  
+    <li><a href="https://tiny-fudge-cb990b.netlify.app/Linux">Linux</a></li>  
+    <li><a href="https://tiny-fudge-cb990b.netlify.app/Contact">Contact</a></li>  
+  </ul>
+ </li>
+  <li><a href="#">coding</a>
+   <ul class="sites">
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/Home">Home</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/About">About</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/Html5">Html5</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/Javascript">Javascript</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/StaticPages">StaticPages</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/Java">Java</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/Python">Python</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/MrePython">MrePython</a></li>  
+    <li><a href="https://classy-raindrop-80ce0d.netlify.app/Verilog">Verilog</a></li>  
+  </ul>
+ </li>
+  <li><a href="#">hospitality</a>
+   <ul class="sites">
+    <li><a href="https://tiny-cendol-418236.netlify.app/Home">Home</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/About">About</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/About1">About1</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/FarEast">FarEast</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/Meditteranean">Meditteranean</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/VeganMeat">VeganMeat</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/Grain">Grain</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/Contact">Contact</a></li>  
+  </ul>
+ </li>
+  <li><a href="#">engineering</a>
+   <ul class="sites">
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Home</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Electronics</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Circuits</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Processes</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">SerialControl</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Bench</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Batteries</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Lines</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">Materials</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app">More</a></li>  
+  </ul>
+ </li>
 </ul>
 </div>
 </section>
@@ -17,7 +61,6 @@ export default {
   name: "Departments",
 };
 </script>
-
 
 <style scoped>
 *{
