@@ -2,12 +2,12 @@
   <section id="departments">
   <div class="box">
   <ul id="bookmarks">
+    <li><a href="https://tiny-fudge-cb990b.netlify.app">supportRoles</a></li>
     <li><a href="https://classy-raindrop-80ce0d.netlify.app">coding</a></li>
-    <li><a href="https://tiny-cendol-418236.netlify.app">food</a></li>
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app">academics</a></li>
-    <li><a href="https://tiny-fudge-cb990b.netlify.app">customerService</a></li>
+    <li><a href="https://tiny-cendol-418236.netlify.app">hospitality</a></li>
     <li><a href="https://unique-fenglisu-056e3b.netlify.app">engineering</a></li>
-    <li><a href="https://phenomenal-bombolone-9b629d.netlify.app">VueTest</a></li>
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app">training</a></li>
+    <li><a href="https://phenomenal-bombolone-9b629d.netlify.app">jsUpload</a></li>
 </ul>
 </div>
 </section>
