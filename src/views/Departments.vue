@@ -13,6 +13,22 @@
     <li><a href="https://tiny-fudge-cb990b.netlify.app/Contact">Contact</a></li>  
   </ul>
  </li>
+  <li><a href="#">training</a>
+   <ul class="sites">
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Home"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Math1"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Math2"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Math3"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Algebra"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Trig"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/PreCalc"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Calculus"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Chemistry"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Coding"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Engineering"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Contact"></a></li>  
+  </ul>
+ </li>
   <li><a href="#">coding</a>
    <ul class="sites">
     <li><a href="https://classy-raindrop-80ce0d.netlify.app/Home">Home</a></li>  
@@ -29,27 +45,27 @@
   <li><a href="#">hospitality</a>
    <ul class="sites">
     <li><a href="https://tiny-cendol-418236.netlify.app/Home">Home</a></li>  
-    <li><a href="https://tiny-cendol-418236.netlify.app/about">about</a></li>  
-    <li><a href="https://tiny-cendol-418236.netlify.app/about1">about1</a></li>  
-    <li><a href="https://tiny-cendol-418236.netlify.app/farEast">FarEast</a></li>  
-    <li><a href="https://tiny-cendol-418236.netlify.app/meditteranean">Meditteranean</a></li>  
-    <li><a href="https://tiny-cendol-418236.netlify.app/veganMeat">VeganMeat</a></li>  
-    <li><a href="https://tiny-cendol-418236.netlify.app/grain">Grain</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/About">About</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/About1">About1</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/FarEast">FarEast</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/Meditteranean">Meditteranean</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/VeganMeat">VeganMeat</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/Grain">Grain</a></li>  
     <li><a href="https://tiny-cendol-418236.netlify.app/Contact">Contact</a></li>  
   </ul>
  </li>
   <li><a href="#">engineering</a>
    <ul class="sites">
     <li><a href="https://unique-fenglisu-056e3b.netlify.app/Home">Home</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/electronics">Electronics</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/circuits">Circuits</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/processes">Processes</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/Electronics">Electronics</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/Circuits">Circuits</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/Processes">Processes</a></li>  
     <li><a href="https://unique-fenglisu-056e3b.netlify.app/serialControl">SerialControl</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/bench">Bench</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/batteries">Batteries</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/lines">Lines</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/materials">Materials</a></li>  
-    <li><a href="https://unique-fenglisu-056e3b.netlify.app/more">More</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/Bench">Bench</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/Batteries">Batteries</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/Lines">Lines</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/Materials">Materials</a></li>  
+    <li><a href="https://unique-fenglisu-056e3b.netlify.app/More">More</a></li>  
   </ul>
  </li>
 </ul>
