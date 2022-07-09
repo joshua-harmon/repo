@@ -16,17 +16,17 @@
   <li><a href="#">training</a>
    <ul class="sites">
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/Home"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Math1"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Math2"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Math3"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Algebra"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Trig"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/PreCalc"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Calculus"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Chemistry"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Coding"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Engineering"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/Contact"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/math1"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/math2"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/math3"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/algebra"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/trig"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/preCalc"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/calculus"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/chemistry"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/coding"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/engineering"></a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/contact"></a></li>  
   </ul>
  </li>
   <li><a href="#">coding</a>
