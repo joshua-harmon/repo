@@ -17,10 +17,10 @@
    <ul class="sites">
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/Home">Home</a></li>  
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/math1">Math1</a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/math2"></Math2></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/math3"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/algebra"></a></li>  
-    <li><a href="https://eclectic-fox-ae19b5.netlify.app/trig"></a>Math3</li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/math2">Math2</a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/math3">Math3</a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/algebra">Algebra</a></li>  
+    <li><a href="https://eclectic-fox-ae19b5.netlify.app/trig">Trig</a></li>  
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/preCalc">PreCalc</a></li>  
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/calculus">Calculus</a></li>  
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/chemistry">Chemistry</a></li>  
