@@ -48,7 +48,7 @@
     <li><a href="https://tiny-cendol-418236.netlify.app/About">About</a></li>  
     <li><a href="https://tiny-cendol-418236.netlify.app/About1">About1</a></li>  
     <li><a href="https://tiny-cendol-418236.netlify.app/FarEast">FarEast</a></li>  
-    <li><a href="https://tiny-cendol-418236.netlify.app/Meditteranean">Meditteranean</a></li>  
+    <li><a href="https://tiny-cendol-418236.netlify.app/Mediterranean">Mediterranean</a></li>  
     <li><a href="https://tiny-cendol-418236.netlify.app/VeganMeat">VeganMeat</a></li>  
     <li><a href="https://tiny-cendol-418236.netlify.app/Grain">Grain</a></li>  
     <li><a href="https://tiny-cendol-418236.netlify.app/Contact">Contact</a></li>  
