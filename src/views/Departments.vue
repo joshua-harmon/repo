@@ -7,7 +7,7 @@
    <ul class="sites">
     <li><a href="https://tiny-fudge-cb990b.netlify.app/Home">Home</a></li>  
     <li><a href="https://tiny-fudge-cb990b.netlify.app/about">About</a></li>  
-    <li><a href="https://tiny-fudge-cb990b.netlify.app/customerService">CustomerService</a></li>  
+    <li><a href="https://tiny-fudge-cb990b.netlify.app/customerService">remoteWork</a></li>  
     <li><a href="https://tiny-fudge-cb990b.netlify.app/systems">Systems</a></li>  
     <li><a href="https://tiny-fudge-cb990b.netlify.app/linux">Linux</a></li>  
     <li><a href="https://tiny-fudge-cb990b.netlify.app/Contact">Contact</a></li>  
