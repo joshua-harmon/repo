@@ -13,7 +13,7 @@
     <li><a href="https://tiny-fudge-cb990b.netlify.app/Contact">Contact</a></li>  
   </ul>
  </li>
-  <li><a href="#">training</a>
+  <li><a href="#">lectures</a>
    <ul class="sites">
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/Home">Home</a></li>  
     <li><a href="https://eclectic-fox-ae19b5.netlify.app/math1">Math1</a></li>  
